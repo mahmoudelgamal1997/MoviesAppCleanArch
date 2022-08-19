@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MvvmCleanArch</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="popular_movies">popularMovie</string>
+    <string name="title_trending">Trending</string>
+    <string name="summary">summary</string>
+    <string name="ava">ava</string>
+</resources>
