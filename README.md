@@ -15,14 +15,14 @@ Features:
 - UseCase
 - Dagger Hilt
 
-Libraries 
+- Libraries 
 
-ViewBinding
-Kotlin Coroutines
-ViewModel
-Navigation
-Glide
-Viewbindingpropertydelegate
-Retrofit
-Dagger Hilt
-Paging 3
+- ViewBinding
+- Kotlin Coroutines
+- ViewModel
+- Navigation
+- Glide
+- Viewbindingpropertydelegate
+- Retrofit
+- Dagger Hilt
+- Paging 3
