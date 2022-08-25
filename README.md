@@ -15,7 +15,7 @@ Features:
 - UseCase
 - Dagger Hilt
 
-- Libraries 
+Libraries :
 
 - ViewBinding
 - Kotlin Coroutines
